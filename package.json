@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "mongoose-get-started-guide.js",
+  "type": "module",
   "dependencies": {
     "bson": "^5.3.0",
     "debug": "^4.3.4",
